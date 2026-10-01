@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/yass-dev/the-internal-vault#readme",
   "dependencies": {
-    "@actions/core": "^3.0.1"
+    "@actions/core": "^1.11.1"
   }
 }
