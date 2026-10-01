@@ -1,0 +1,23 @@
+{
+  "name": "internal",
+  "version": "1.0.0",
+  "description": "Internal automation library used by the vault platform workflows.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yass-dev/the-internal-vault.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yass-dev/the-internal-vault/issues"
+  },
+  "homepage": "https://github.com/yass-dev/the-internal-vault#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1"
+  }
+}
